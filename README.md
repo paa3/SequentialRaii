@@ -49,4 +49,8 @@ The modified code below will run just fine within the limits defined by C++:
 ```
 
 ## Example
-Please see the (somewhat artifical) example provided under ```\example\```.
+Please see the (somewhat artifical) UDP echo server example provided under ```\example\```.
+
+## Future changes
+- In general looking for ideas on how to improve this piece of code.
+- Exceptions during initialization or uninitialization is not rethrown.
